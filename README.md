@@ -35,8 +35,6 @@ streamlit-task-app/
 ## 💻 Getting Started
 
 1. Clone this repository:
-
-```bash
 git clone https://github.com/your-username/streamlit-task-app.git
 cd streamlit-task-app
 
