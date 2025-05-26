@@ -25,7 +25,7 @@ streamlit-task-app/
 │   └── taskmanager.py       # Core task management logic
 ├── task_data.json           # Saved data (auto-created)
 └── .streamlit/
-    └── config.toml          # Optional: custom theme config
+└── config.toml          # Optional: custom theme config
 
 ## 💻 Getting Started
 
