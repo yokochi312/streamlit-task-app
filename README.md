@@ -36,32 +36,32 @@ streamlit-task-app/
 
 ## 💻 Getting Started
 
-###1. Clone this repository
+### 1. Clone this repository
 
 ```bash
 git clone https://github.com/your-username/streamlit-task-app.git
 cd streamlit-task-app
 ``` 
 
-###2. Create a virtual environment and install Streamlit
+### 2. Create a virtual environment and install Streamlit
 ```bash
 conda create -n task_env python=3.10
 conda activate task_env
 pip install streamlit
 ``` 
 
-###3. Run the app
+### 3. Run the app
 ```bash
 streamlit run home.py
 ``` 
 
-###✨ Screenshots
+### ✨ Screenshots
 
 Add screenshots here if you like (optional)
 
 ⸻
 
-###📌 Future Plans
+### 📌 Future Plans
 	•	Calendar-based UI
 	•	Notification for approaching deadlines
 	•	Tagging or categorizing tasks
@@ -69,13 +69,13 @@ Add screenshots here if you like (optional)
 
 ⸻
 
-###👤 Author
+### 👤 Author
 
 Built by @yokochi312
 For contact: Instagram @rui____49
 
 ⸻
 
-###📄 License
+### 📄 License
 
 This project is licensed under the MIT License.
